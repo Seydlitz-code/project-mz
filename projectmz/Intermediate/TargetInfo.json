@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "projectmz",
+			"Path": "..\\Source\\projectmz.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "projectmzEditor",
+			"Path": "..\\Source\\projectmzEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

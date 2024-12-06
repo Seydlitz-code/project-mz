@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dongh\\documents\\project-mz\\projectmz\\source\\projectmz\\projectmz.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dongh\\documents\\project-mz\\projectmz\\intermediate\\build\\win64\\x64\\projectmzeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dongh\\documents\\project-mz\\projectmz\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectmz\\definitions.projectmz.h",
+            "c:\\users\\dongh\\documents\\project-mz\\projectmz\\source\\projectmz\\projectmz.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

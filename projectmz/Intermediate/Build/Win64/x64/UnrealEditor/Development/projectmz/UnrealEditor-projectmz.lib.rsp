@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-projectmz.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dongh\Documents\project-mz\projectmz\Intermediate\Build\Win64\x64\projectmzEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\dongh\Documents\project-mz\projectmz\Intermediate\Build\Win64\x64\UnrealEditor\Development\projectmz\projectmz.cpp.obj"
+"C:\Users\dongh\Documents\project-mz\projectmz\Intermediate\Build\Win64\x64\UnrealEditor\Development\projectmz\Default.rc2.res"
+/OUT:"C:\Users\dongh\Documents\project-mz\projectmz\Intermediate\Build\Win64\x64\UnrealEditor\Development\projectmz\UnrealEditor-projectmz.lib"
